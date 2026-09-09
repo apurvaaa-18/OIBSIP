@@ -17,7 +17,7 @@ Wanderly is a responsive travel landing page designed to inspire users to explor
 - CSS3
 
 ## Project Screenshot
-Add your website screenshot here after uploading it to this folder.
+has been uploaded 
 
 ## Live Demo
 https://apurvaaa-18.github.io/OIBSIP/
